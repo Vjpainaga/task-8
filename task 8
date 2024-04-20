@@ -1,0 +1,11 @@
+public class integer {
+    public static void main(String[]args){
+        int sum1;
+        int sum2,sum3;
+
+        sum1=2;
+                sum2=4;
+                        sum3=6;
+        System.out.println("the sum1 is "+ sum1 + sum2 +sum3);
+    }
+}
